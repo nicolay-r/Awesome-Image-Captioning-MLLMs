@@ -23,3 +23,4 @@ This repository represent a collection of the systems and findids that may help 
 # Related Lists
 
 * [Awesome-CLIP-in-Medical-Imaging](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)
+* [MLLM-thread @ huggingface](https://huggingface.co/collections/flow2023/mllm-6596190672376a9c3197ae36)
